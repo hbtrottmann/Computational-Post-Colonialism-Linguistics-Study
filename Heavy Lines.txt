@@ -1,0 +1,2 @@
+DELETE THIS BEFORE CODING!
+This .txt file will fill with 'heavy' lines after code is run
