@@ -145,7 +145,6 @@ public class Run
             heavylines.println(heavy.get(i));
        }
 
-       //this following stuff is meant to print into files but it is not. fix later
        results.print(wc);
        results.print(", ");
        results.print(ww);
